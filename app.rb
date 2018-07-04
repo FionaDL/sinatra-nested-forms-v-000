@@ -21,7 +21,7 @@ module FormsLab
        Ship.new(details)
      end
 
-      
+
       erb :show
     end
     # code other routes/actions here
